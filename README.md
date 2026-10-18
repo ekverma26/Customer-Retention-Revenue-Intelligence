@@ -25,7 +25,7 @@ Customer churn impacts recurring revenue. This project analyzes customer demogra
 - Customers without online security and tech support show higher churn rates than customers with those services.
 
 ## Dashboard
-![Customer Churn Dashboard]()
+![Customer Churn Dashboard](customer_churn_dashboard.png)
 
 ## Recommendations
 - Investigate retention offers for month-to-month customers.
